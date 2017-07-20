@@ -10,3 +10,5 @@ batch feature_weight_visualization,
 draw loss and accuracy,
 and ploy.py(draw loss and accuracy real time, it also used in my road classification project.)
 and so on.
+
+train.txt and test.txt is used in ImageDate layer.
